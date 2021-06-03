@@ -1,2 +1,2 @@
-const message = `Node is fucking not amazing!!`
+const message = `Node is (not) amazing!!`
 console.log(message)
